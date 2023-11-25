@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Kosa12</h1>
-<h3 align="center">A student at UBB - Computer science</h3>
+<h3 align="center">UBB - Computer science</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kosa12&label=Profile%20views&color=0e75b6&style=flat" alt="kosa12" /> </p>
 
