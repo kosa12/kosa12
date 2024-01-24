@@ -4,7 +4,7 @@
 <h1 align="center">Hi 👋, I'm kosa12</h1>
 <h3 align="center">Computer science student at Universitatea Babeș-Bolyai</h3>
 
-<p align="centre"> <img src="https://komarev.com/ghpvc/?username=kosa12&label=Profile%20views&color=0e75b6&style=flat" alt="kosa12" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=kosa12&label=Profile%20views&color=0e75b6&style=flat" alt="kosa12" /> </p>
 
 - 🔭 I’m currently working on [a SlotMachine in Java](https://github.com/kosa12/SlotMachine.git)
 
