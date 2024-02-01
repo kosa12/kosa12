@@ -6,7 +6,7 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=kosa12&label=Profile%20views&color=0e75b6&style=flat" alt="kosa12" /> </p>
 
-- 🔭 I’m currently working on a [multiplayer chess game](https://github.com/kosa12/MultiplayerChess.git)
+- 🔭 I’m currently working on a [multiplayer chess game in Java](https://github.com/kosa12/MultiplayerChess.git)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
