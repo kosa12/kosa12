@@ -25,6 +25,8 @@
 
  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kosa12&theme=tokyonight)
 
+ [![GitHub Streak](https://streak-stats.demolab.com?user=kosa12&theme=radical&hide_border=true&mode=weekly)](https://git.io/streak-stats)
+
 
 ## Donate
 <span class="badge-buymeacoffee">
