@@ -7,6 +7,7 @@
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=kosa12&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="kosa12" /> </p>
 
 - 🔭 I’m currently working on a [mini databse management system](https://github.com/kosa12/MiniDBMS.git)
+- 📫 **kosa03matyas@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
