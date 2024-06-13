@@ -69,7 +69,7 @@
 
 ###
 
- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kosa12&theme=tokyonight&hide=css,ejs)
+ ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kosa12&theme=tokyonight&hide=css,ejs,html)
 
  [![GitHub Streak](https://streak-stats.demolab.com?user=kosa12&theme=radical&hide_border=true&mode=weekly)](https://git.io/streak-stats)
 
