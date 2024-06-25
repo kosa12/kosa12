@@ -9,21 +9,6 @@
 - 🔭 I’m currently working on a [Fullstack Used-Car webshop for my webprogramming class](https://github.com/kosa12/CarBazaar.git)
 - 📫 **kosa03matyas@gmail.com**
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://instagram.com/kosa.matys" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="kosa.matys" height="30" width="40" /></a>
-<a href="https://dev.to/kosa12" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="kosa12" height="30" width="40" /></a>
-  <a href="https://www.linkedin.com/in/k%C3%B3sa-m%C3%A1ty%C3%A1s-44211a232/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
-  </a>
-</p>
-
-![ARCH](https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white)
-![IDEA](https://img.shields.io/badge/IntelliJ_IDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
-![VIM](https://img.shields.io/badge/NeoVim-%2357A143.svg?&style=for-the-badge&logo=neovim&logoColor=white)
-![VS](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
-
-
 <h3 align="left">Languages and Tools:</h3>
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" height="40" alt="bash logo"  />
