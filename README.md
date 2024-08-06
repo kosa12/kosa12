@@ -6,7 +6,7 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=kosa12&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="kosa12" /> </p>
 
-- 🔭 I’m currently working on a [Fullstack Used-Car webshop for my webprogramming class](https://github.com/kosa12/CarBazaar.git)
+- 🔭 I’m currently working at my summer internship!
 - 📫 **kosa03matyas@gmail.com**
 
 
