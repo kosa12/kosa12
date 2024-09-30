@@ -6,7 +6,7 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=kosa12&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="kosa12" /> </p>
 
-- 🔭 I’m currently working at my summer internship!
+- 🔭 I’m currently starting my 3rd year of my CS university program!
 - 📫 **kosa03matyas@gmail.com**
 
 
