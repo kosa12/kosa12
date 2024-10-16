@@ -12,9 +12,3 @@
  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kosa12&theme=tokyonight&hide=css,ejs,html)
 
  [![GitHub Streak](https://streak-stats.demolab.com?user=kosa12&theme=radical&hide_border=true&mode=weekly)](https://git.io/streak-stats)
-
-
-## Donate
-<span class="badge-buymeacoffee">
-<a href="https://ko-fi.com/ashenone1kenny" title="Donate to this project using Buy Me A Coffee"><img src="https://img.shields.io/badge/buy%20me%20a%20coffee-donate-yellow.svg" alt="Buy Me A Coffee donate button" /></a>
-</span>
