@@ -6,14 +6,20 @@
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=kosa12&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="kosa12" /> </p>
 
 ## Frameworks and languages:
-[![My Skills](https://skillicons.dev/icons?i=java,spring,js,nextjs,nodejs,react,tailwind,html,py,pytorch,flask,cs,cpp,haskell,matlab)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=java,spring,js,nextjs,nodejs,react,tailwind,html,py,pytorch,flask,cs,cpp,haskell,matlab&theme=dark)](https://skillicons.dev)
 
 ## Databases:
-[![Datab](https://skillicons.dev/icons?i=mysql,postgres,mongodb,sqlite,redis)](https://skillicons.dev)
+[![Datab](https://skillicons.dev/icons?i=mysql,postgres,mongodb,sqlite,redis&theme=dark)](https://skillicons.dev)
 
 ## Devops:
-[![Devops](https://skillicons.dev/icons?i=docker,git,linux,azure,bash,vercel)](https://skillicons.dev)
+[![Devops](https://skillicons.dev/icons?i=docker,git,linux,azure,bash,vercel&theme=dark)](https://skillicons.dev)
 
-## Projects:
-- 
+## Personal projects:
+- [**SQUEAL**](https://github.com/kosa12/SQUEAL-MiniDBMS) (Mini database management system written in Java and JavaSwing, with a MongoDB backend)
+- [**CarBazaar**](https://github.com/kosa12/CarBazaar) (A full-stack used car webshop in TailwindCSS/Express/NodeJS/SQL)
+- [**Typing Speed Game**](https://kosa12.github.io/typingSpeedGame/) (Typeracer kind of game written in plain JS/CSS/HTML)
+- [**Multiplayer Chess**](https://github.com/kosa12/MultiplayerChess) (Chess game written in Java and JavaSwing with server and clients)
+- [**SlotMachine**](https://github.com/kosa12/SlotMachine) (Cyberpunk themed slotmachine written in Java and JavaSwing)
+- [**Personal website**](https://github.com/kosa12/kosa12.github.io) (Personal portofolio website written in JS/HTML/CSS, will rewrite it in NextJS and React)
+- [**3D Pathfinder**](https://github.com/kosa12/Pathfinder-3D) (3D Pathfinder using A* written in Python)
 
