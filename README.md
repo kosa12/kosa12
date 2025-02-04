@@ -16,12 +16,14 @@
 
 ## Personal projects:
 - [**SQUEAL**](https://github.com/kosa12/SQUEAL-MiniDBMS) (Mini database management system written in Java and JavaSwing, with a MongoDB backend)
+- [**UrbanHaven**](https://github.com/kosa12/UrbanHaven) (Property listing website with NextJS/Tailwind frontend and Spring backend
 - [**CarBazaar**](https://github.com/kosa12/CarBazaar) (A full-stack used car webshop in TailwindCSS/Express/NodeJS/SQL)
 - [**Typing Speed Game**](https://kosa12.github.io/typingSpeedGame/) (Typeracer kind of game written in plain JS/CSS/HTML)
 - [**Multiplayer Chess**](https://github.com/kosa12/MultiplayerChess) (Chess game written in Java and JavaSwing with server and clients)
 - [**SlotMachine**](https://github.com/kosa12/SlotMachine) (Cyberpunk themed slotmachine written in Java and JavaSwing)
 - [**Personal website**](https://github.com/kosa12/kosa12.github.io) (Personal portofolio website written in JS/HTML/CSS, will rewrite it in NextJS and React)
 - [**3D Pathfinder**](https://github.com/kosa12/Pathfinder-3D) (3D Pathfinder with obstacles using A* written in Python)
+  
 
 ## Connect with me:
 <a href="https://www.linkedin.com/in/k%C3%B3sa-m%C3%A1ty%C3%A1s-44211a232/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="gautamkrishnar" height="30" width="40" /></a>
