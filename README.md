@@ -16,7 +16,7 @@
 
 ## Personal projects:
 - [**SQUEAL**](https://github.com/kosa12/SQUEAL-MiniDBMS) (Mini database management system written in Java and JavaSwing, with a MongoDB backend)
-- [**UrbanHaven**](https://github.com/kosa12/UrbanHaven) (Property listing website with NextJS/Tailwind frontend and Spring backend
+- [**UrbanHaven**](https://github.com/kosa12/UrbanHaven) (Property listing website with NextJS/Tailwind frontend and Spring backend)
 - [**CarBazaar**](https://github.com/kosa12/CarBazaar) (A full-stack used car webshop in TailwindCSS/Express/NodeJS/SQL)
 - [**Typing Speed Game**](https://kosa12.github.io/typingSpeedGame/) (Typeracer kind of game written in plain JS/CSS/HTML)
 - [**Multiplayer Chess**](https://github.com/kosa12/MultiplayerChess) (Chess game written in Java and JavaSwing with server and clients)
