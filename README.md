@@ -10,6 +10,8 @@
 ╚═╝  ╚═╝ ╚═════╝ ╚══════╝╚═╝  ╚═╝    ╚═╝     ╚═╝╚═╝  ╚═╝   ╚═╝      ╚═╝   ╚═╝  ╚═╝╚══════╝
                                                                                           
 </pre>
+
+[![profile views](https://komarev.com/ghpvc/?username=kosa12&style=flat&color=313131&label=views)](https://github.com/kosa12)
 </div>
 <p align="center">
   <samp><b>PGP key</b>: F2CB939C8AA67892</samp>
