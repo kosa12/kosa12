@@ -4,3 +4,7 @@
 <h3 align="center">Computer science student at Universitatea Babeș-Bolyai</h3>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=kosa12&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="kosa12" /> </p>
+
+<p align="center">
+  <samp><b>PGP key</b>: F2CB939C8AA67892</samp>
+</p>
