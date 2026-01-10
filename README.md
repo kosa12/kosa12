@@ -29,4 +29,4 @@
 | **tools/stuff/misc** | docker, jenkins, kibana, splunk, appdynamics, terraform, rabbitmq |
 
 ---
-- currently working on: www.turbodither.com
+- currently working on: www.turbodither.com and [hyprKCS](https://github.com/kosa12/hyprKCS)
