@@ -22,7 +22,7 @@
 
 | category | stack |
 | :--- | :--- |
-| **languages** | java, typescript, python |
+| **languages** | java, typescript, python, rust |
 | **frameworks/libraries/runtimes** | spring boot, react, next.js, tailwind, bun, node |
 | **databases** | postgres, mysql, redis, elasticsearch, mongodb |
 | **devops/deployment** | aws, vercel, kubernetes, pcf, cloudflare |
