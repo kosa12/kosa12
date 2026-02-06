@@ -59,17 +59,6 @@
 
 <h3>connect with me</h3>
 
-<a href="https://www.linkedin.com/in/kosa-matyas" target="_blank">
-<img src="https://img.shields.io/badge/linkedin-313131?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin" />
-</a>
-<a href="https://www.x.com/kosa12" target="_blank">
-<img src="https://img.shields.io/badge/x-313131?style=for-the-badge&logo=x&logoColor=white" alt="twitter" />
-</a>
-<a href="mailto:kosa03matyas@gmail.com" target="_blank">
-<img src="https://img.shields.io/badge/gmail-313131?style=for-the-badge&logo=gmail&logoColor=white" alt="email" />
-</a>
-<a href="https://www.kosamatyas.com" target="_blank">
-<img src="https://img.shields.io/badge/website-313131?style=for-the-badge&logo=firefoxbrowser&logoColor=white" alt="website" />
-</a>
+<a href="https://www.linkedin.com/in/kosa-matyas" target="_blank"><img src="https://img.shields.io/badge/linkedin-313131?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin" /></a><a href="https://www.x.com/kosa12" target="_blank"><img src="https://img.shields.io/badge/x-313131?style=for-the-badge&logo=x&logoColor=white" alt="twitter" /></a><a href="mailto:kosa03matyas@gmail.com" target="_blank"><img src="https://img.shields.io/badge/gmail-313131?style=for-the-badge&logo=gmail&logoColor=white" alt="email" /></a><a href="https://www.kosamatyas.com" target="_blank"><img src="https://img.shields.io/badge/website-313131?style=for-the-badge&logo=firefoxbrowser&logoColor=white" alt="website" /></a>
 
 </div>
