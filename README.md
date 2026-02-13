@@ -45,9 +45,10 @@
 
 <h3>currently working on</h3>
 
-[hyprKCS](https://github.com/kosa12/hyprKCS) — hyprland keybind manager
-
-![](flames.gif)
+<ul align="left" style="display: inline-block; text-align: left;">
+  <li><a href="https://github.com/kosa12/hyprKCS">hyprKCS</a> - hyprland keybind manager</li>
+  <li><a href="https://github.com/kosa12/CRTty">CRTty</a> - Post-processing shader framework for kitty/alacritty terminal</li>
+</ul>
 
 </div>
 
