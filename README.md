@@ -45,10 +45,16 @@
 
 <h3>currently working on</h3>
 
-<p align="center">
-  • <a href="https://github.com/kosa12/hyprKCS">hyprKCS</a> - hyprland keybind manager<br>
-  • <a href="https://github.com/kosa12/CRTty">CRTty</a> - Post-processing shader framework for kitty/alacritty terminal
-</p>
+<table align="center">
+  <tr>
+    <td><a href="https://github.com/kosa12/hyprKCS">hyprKCS</a></td>
+    <td>- hyprland keybind manager</td>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/kosa12/CRTty">CRTty</a></td>
+    <td>- post-processing shader framework for kitty/alacritty terminal</td>
+  </tr>
+</table>
 
 </div>
 
