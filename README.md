@@ -47,12 +47,8 @@
 
 <table align="center">
   <tr>
-    <td><a href="https://github.com/kosa12/hyprKCS">hyprKCS</a></td>
-    <td>- hyprland keybind manager</td>
-  </tr>
-  <tr>
-    <td><a href="https://github.com/kosa12/CRTty">CRTty</a></td>
-    <td>- post-processing shader framework for kitty/alacritty terminal</td>
+    <td><a href="https://github.com/kosa12/hyprKCS">kopuz</a></td>
+    <td>-  music player</td>
   </tr>
 </table>
 
