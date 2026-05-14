@@ -47,7 +47,7 @@
 
 <table align="center">
   <tr>
-    <td><a href="https://github.com/kosa12/hyprKCS">kopuz</a></td>
+    <td><a href="https://github.com/Kopuz-org/kopuz">kopuz</a></td>
     <td>-  music player</td>
   </tr>
 </table>
