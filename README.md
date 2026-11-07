@@ -10,7 +10,7 @@
 </p>
 
 <p align="center">
-  <img src="koi/koi.gif" width="512" body="platinum" alt="My koi" />
+  <img src="koi/koi.gif" width="512" alt="My koi" />
 </p>
 
 </div>
